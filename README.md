@@ -1,5 +1,6 @@
 # Stock-Price-Prediction-using-Facebook-Prophet
-Stock Price Prediction using Facebook Prophet and export to Google Spread sheets for evaluation. Here, we used Yahoo Finance python api to get stocks tick data for daily and minutes. 
+
+Stock Price Prediction using Facebook Prophet and export to Google Spreadsheets for evaluation. Here, we used Yahoo Finance python API to get stock tick data for daily and minutes.
 
 References:
 
